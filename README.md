@@ -3,7 +3,9 @@
 > A curated list of AI-powered tools, platforms, engines, and libraries for game development — covering asset generation, NPC behavior, code assistance, animation, audio, level design, and more.
  
 Pricing and features change frequently — treat every entry as a starting point for your own research. Contributions welcome!
- 
+
+[Google Slide Version](https://docs.google.com/presentation/d/1rFbyF5YrL2M9osoSDhimApptiR-Ug_32Xwjba1LbbEw/edit?usp=sharing)
+
 ---
  
 ## Contents
