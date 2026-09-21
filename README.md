@@ -80,6 +80,7 @@ Tools that turn text prompts or images into export-ready 3D models.
  
 Generators for game-ready 2D assets, character sprites, sprite sheets, and pixel art.
  
+- [FrameSprite](https://www.framesprite.com/character) — Browser-based workspace for generating and animating 2D game assets, with frame extraction, green/blue-screen removal, and transparent PNG sequence, GIF, or sprite-sheet export. Free local browser tools; AI generation uses credits. (Submitted by the FrameSprite maintainer.)
 - [PixelLab](https://www.pixellab.ai) — Pixel-art-specific generator with skeleton-based animation, text-to-animation, tilesets, and engine export.
 - [Sprite-AI](https://www.sprite-ai.art) — Sprite generator, editor, and animator with MCP integration for Claude Code and Cursor.
 - [AutoSprite](https://www.autosprite.io) — Upload a single sprite, pick a moveset, and export engine-ready sprite sheets for Unity, Godot, and GameMaker.
