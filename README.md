@@ -132,6 +132,7 @@ Frameworks and platforms for building intelligent, conversational game character
 ## Voice, Speech & Dubbing
  
 AI voice acting, text-to-speech, and in-game speech recognition tools.
+- [AI Group Call](https://aigroupcall.app) - Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript.
  
 - [ElevenLabs](https://elevenlabs.io) — Industry-leading TTS, voice cloning, multilingual dubbing, and sound-effect generation; dedicated gaming integrations.
 - [Replica Studios](https://replicastudios.com) — AI voice actors with SAG-AFTRA licensing for games; emotion control.
