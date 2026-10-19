@@ -35,6 +35,7 @@ Pricing and features change frequently — treat every entry as a starting point
 Full platforms that let you create playable games from text prompts or with AI-assisted workflows, often requiring little or no code.
  
 - [Rosebud AI](https://rosebud.ai) — Prompt-to-game platform; describe an idea and get playable Three.js code, assets, and animations in the browser.
+- [OhMyGame](https://www.ohmygame.ai) — Open-source desktop studio where an AI agent designs, builds, generates assets for, playtests, and publishes games from one canvas.
 - [Summer Engine](https://www.summerengine.com) — AI-native engine built on Godot 4; free, no watermark/revenue share, exports to Steam/desktop. Includes a CLI and MCP server for 44+ engine actions.
 - [Ztronica](https://ztronica.com) — AI-powered game creation and interactive experience builder for developers and creators.
 - [GDevelop](https://gdevelop.io) — Free, open-source no-code 2D/3D engine with AI-assisted coding features and a large asset store.
