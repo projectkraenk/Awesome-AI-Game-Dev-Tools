@@ -46,6 +46,7 @@ Full platforms that let you create playable games from text prompts or with AI-a
 - [Star AI Game Generator](https://buildwithstar.com) — Free, generates a playable browser game from a prompt in ~30 seconds; no coding required.
 - [Jabali.ai](https://www.jabali.ai) — Multiplayer-first AI game jams; includes modes like trivia, racing, and side-scrollers.
 - [Promethean AI](https://www.prometheanai.com) — Populates full 3D environments from natural-language instructions; integrates with Unity and Unreal; used by PlayStation Studios.
+- [PlaysmithAI](https://playsmithai.com/) — Windows 10/11 studio with specialist agents and reviews; a free tier builds one browser game, and paid plans make Roblox games. Roblox is a trademark of Roblox Corporation. PlaysmithAI is not affiliated with or endorsed by Roblox Corporation. Paid plans also support Unity game creation. Unity is a trademark of Unity Technologies or its affiliates. AI usage is billed separately by your AI provider. Features vary by plan.
 ---
  
 ## Code Assistants & Copilots
