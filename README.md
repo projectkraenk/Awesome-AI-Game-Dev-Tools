@@ -190,6 +190,7 @@ Tools for procedurally generating game levels, dungeons, and maps.
 AI tools for game ideation, concept development, and competitive research.
  
 - [Ludo.ai](https://ludo.ai) — Market-trend analysis, concept fusion from top charts, sprite/icon generation, and playable prototype generator.
+- [RespawnStack](https://respawnstack.com) — Free reference for pricing, commercial-use terms, and output ownership across 30+ AI game-dev tools (vendor-quoted with source links).
 ---
  
 ## World Models & Generative Engines
