@@ -214,6 +214,7 @@ Plugins and bridges connecting AI models directly to Unity, Unreal, Godot, and B
 - [ChatGPT-API-unity](https://github.com/hexthedev/ChatGPT-API-unity) — ChatGPT API binding for Unity C# (pure C#).
 - [Hugging Face API Unity Integration](https://github.com/huggingface/unity-api) — Connects Unity projects to Hugging Face Inference API models.
 - [UnityNeuroSpeech](https://github.com/unityneurospeech) — Unity framework for real-time voice AI: Whisper (STT) + Ollama (LLM) + XTTS (TTS), fully local.
+- [Ziva.sh](https://ziva.sh/docs/ziva-mcp-server) - Proprietary Godot editor AI agent with a local MCP server that lets Cursor and Claude Code inspect scene trees, read Godot errors, capture editor screenshots, and run scenes.
 ---
  
 ## Testing & QA
