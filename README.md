@@ -113,6 +113,7 @@ AI tools for creating, converting, and refining character animations.
 - [AnimationGPT](https://github.com/nixiCodex/AnimationGPT) — Open-source text-to-BVH motion generation trained specifically on game combat/action moves.
 - [Plask](https://plask.ai) — Browser-based AI motion capture and animation editing for indie pipelines.
 - [Mixamo (Adobe)](https://www.mixamo.com) — Free auto-rigging and large pre-made animation library; commonly paired with AI-generated meshes.
+- [Animate4Me](https://animate4me.com) — Text prompt or image to a ready Spine 4.2 2D animation (skeleton, atlas, texture) with in-browser preview; paid, from $19/month.
 ---
  
 ## NPC Dialogue, Behavior & AI Characters
