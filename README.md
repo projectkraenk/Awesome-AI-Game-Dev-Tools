@@ -89,6 +89,7 @@ Generators for game-ready 2D assets, character sprites, sprite sheets, and pixel
 - [Recraft](https://www.recraft.ai) — Strong for vector graphics (SVG) and consistent icon/UI sets.
 - [Midjourney](https://www.midjourney.com) — High-end concept art and mood-board generation.
 - [Stable Diffusion (ComfyUI)](https://github.com/comfyanonymous/ComfyUI) — Open-source local image generation with full control via node-based workflow.
+- [RBXGFX](https://rbxgfx.com/) — Purpose-built AI generator for 1920x1080 Roblox game thumbnails and 512x512 icons producing multiple composed variants per request, alongside free browser-based Roblox sizing and safe-zone preview utilities (freemium; not affiliated with Roblox Corporation).
 ---
  
 ## Texture & Material Generation
